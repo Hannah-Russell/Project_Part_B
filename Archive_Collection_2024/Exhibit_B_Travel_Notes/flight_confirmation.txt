@@ -1,0 +1,7 @@
+Title: Flight Confirmation Email (Mock)
+Date: 2020-12-01
+Format: Text
+Description:
+Thank you for booking with SkyJet. Your flight to Seattle is confirmed for January 12, 2021. Boarding time: 6:10 AM. This was never a real flight—it was practice for archiving digital receipts.
+
+Tags: email, mock data, digital archive
