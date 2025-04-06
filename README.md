@@ -6,7 +6,7 @@ This repository is a personal digital archive created as part of a digital curat
 
 All items are stored in a single collection folder called `Archive_Collection_2024`, which is divided into two exhibits:
 
-```text
+```
 Archive_Collection_2024/
 ├── Exhibit_A_Personal_History/
 │   ├── note_to_self.txt
@@ -17,7 +17,7 @@ Archive_Collection_2024/
 │   ├── travel_plan.txt
 │   ├── flight_confirmation.txt
 │   └── metadata.json
-
+```
 
 Each `.txt` file represents a digitized placeholder item. The `metadata.json` file in each exhibit contains descriptive metadata about each item using fields based on the Dublin Core standard.
 
