@@ -1,3 +1,22 @@
 {
-  "title": "Placeholder for Exhibit A Metadata"
+  "collection": "Exhibit A - Personal History",
+  "items": [
+    {
+      "filename": "note_to_self.txt",
+      "title": "Note to Self",
+      "date": "2021-10-13",
+      "description": "A reminder note about backing up photos and calling Mom.",
+      "format": "text/plain",
+      "source": "Personal memory"
+    },
+    {
+      "filename": "old_receipt.txt",
+      "title": "Coffee Shop Receipt",
+      "date": "2019-03-08",
+      "description": "A scanned receipt from a local coffee shop in Denton, TX.",
+      "format": "text/plain",
+      "source": "Notebook find"
+    }
+  ],
+  "standard": "Dublin Core"
 }
