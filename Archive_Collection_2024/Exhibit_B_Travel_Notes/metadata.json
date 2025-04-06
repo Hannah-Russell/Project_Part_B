@@ -1,3 +1,30 @@
 {
-  "title": "Placeholder for Exhibit B Metadata"
+  "collection": "Exhibit B - Travel Notes",
+  "items": [
+    {
+      "filename": "fake_postcard.txt",
+      "title": "Postcard from Nowhere",
+      "date": "2018-06-20",
+      "description": "A creative postcard written during a road trip, never sent.",
+      "format": "text/plain",
+      "source": "Personal writing"
+    },
+    {
+      "filename": "travel_plan.txt",
+      "title": "Weekend Trip Itinerary",
+      "date": "2022-04-15",
+      "description": "A travel plan for a weekend in Austin that was never taken.",
+      "format": "text/plain",
+      "source": "Personal planner"
+    },
+    {
+      "filename": "flight_confirmation.txt",
+      "title": "Mock Flight Confirmation Email",
+      "date": "2020-12-01",
+      "description": "Sample email created to mimic a digital travel receipt.",
+      "format": "text/plain",
+      "source": "Mock document"
+    }
+  ],
+  "standard": "Dublin Core"
 }
